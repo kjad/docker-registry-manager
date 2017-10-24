@@ -1,7 +1,7 @@
 package manager
 
 import (
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	manifestV2 "github.com/docker/distribution/manifest/schema2"
 	client "github.com/heroku/docker-registry-client/registry"
 )
